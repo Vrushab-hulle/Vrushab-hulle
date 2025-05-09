@@ -1,19 +1,17 @@
-# 👋 Hi, I'm Kiran Muttanwar
+# Hi, I'm Vrushabh Hulle
 
 🚀 Full Stack Developer | React.js | Node.js | Java Spring Boot | SQL/PLSQL  
 🎯 Building scalable systems with clean code and purpose-driven design
 
 ---
+🚀 About Me
+## Passionate Full Stack Developer with 2+ years of experience building scalable web applications.
+🔹 Frontend: React.js, Redux, Tailwind CSS, Material UI
+🔹 Backend: Node.js, Express.js, Java Spring Boot, REST APIs
+🔹 Database: MySQL, MongoDB, Oracle PL/SQL
+🔹 DevOps & Tools: Git, Docker, CI/CD, Postman
 
-## 🧠 About Me
-
-I'm a passionate Full Stack Developer with **3+ years of hands-on experience** in crafting robust, scalable, and high-performance web applications. My expertise spans across **React.js, Redux, Node.js, Java Spring Boot, Oracle PL/SQL**, and more. I enjoy building intuitive UIs and performant backends that solve real business problems.
-
-- 💼 Currently working at **Jurassic Software Pvt. Ltd.**, leading ERP development across Finance, HR, and Production departments.
-- 🧩 Previously at **Aragen Life Sciences**, where I delivered mission-critical backend systems and reduced downtime by 40%.
-- 💡 Strong foundation in **Data Structures, OOP, System Design**, and passionate about **mentoring junior developers** and **clean architecture**.
-- 📚 Life-long learner, exploring **DevOps, TDD, and CI/CD pipelines**.
-
+💡 Key Strengths: Performance Optimization, Reusable Component Development, API Integration, Mentorship
 ---
 
 ## 🛠️ Tech Stack
@@ -22,13 +20,13 @@ I'm a passionate Full Stack Developer with **3+ years of hands-on experience** i
 React.js, Redux, Tailwind CSS, Material UI, JavaScript, TypeScript, HTML5, CSS3  
 
 **Backend:**  
-Node.js, Express.js, Java Spring Boot, REST APIs, Firebase Functions  
+Node.js, Express.js, Java Spring Boot, REST APIs 
 
 **Database:**  
-Oracle PL/SQL, MySQL, MongoDB, Firebase  
+Oracle PL/SQL, MySQL, MongoDB
 
 **Dev Tools & Others:**  
-Git, GitHub, Docker (basics), Postman, VS Code, JIRA, Figma, Git Bash  
+Git, GitHub, Docker (basics), Postman, VS Code, Git Bash  
 
 **Core Concepts:**  
 OOP, MVC Architecture, System Design (Basic), CRUD, JWT, Design Patterns, SDLC  
@@ -46,16 +44,11 @@ React.js + Node.js + Oracle PL/SQL stack for production, HR, and maintenance wor
 🔹 **Blue Bus** – _Online Bus Ticket Booking Platform_  
 Led a team of 5 to deliver a full-stack app (React.js + Spring Boot). Integrated Redux, backend services, and delivered on schedule.
 
-🔹 **MDM Workflow Tool** – _Enterprise Workflow Management_  
-Responsive UI with React.js and Tailwind CSS. Integrated Node.js Express APIs and optimized PL/SQL for faster deployments.
-
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Best New Joiner Award** – Jurassic Software  
-- 🥈 2nd Prize – Coding Competition (CDAC Bengaluru)  
-- 🥇 1st Prize – Group Discussion (BE 3rd Year)
+- 🥇 1st Prize – Paper Presentation (BE 3rd Year)
 
 ---
 
@@ -70,15 +63,15 @@ Responsive UI with React.js and Tailwind CSS. Integrated Node.js Express APIs an
 
 ## 🎓 Education
 
-🎓 **PG-DAC (CDAC Bengaluru)** – 72%  
-🎓 **B.E. – Computer Science** – Bharati Vidyapeeth College, 74%
+🎓 PG Diploma in Advanced Computing (CDAC Bangalore) – 68%
+🎓 BE in Engineering (Dr. BATU University) – 81%
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-muttanwar/)
-- 📧 Email: kiranmuttanwar@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vrushabh-hulle-5b12a7215/)
+- 📧 Email: vrushabhulle12@gmail.com
 
 ---
 
