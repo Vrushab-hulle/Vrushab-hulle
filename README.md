@@ -48,7 +48,7 @@ Led a team of 5 to deliver a full-stack app (React.js + Spring Boot). Integrated
 
 ## 🏆 Achievements
 
-- 🥇 1st Prize – Paper Presentation (BE 3rd Year)
+- 🥇 2nd Prize – Paper Presentation (BE 3rd Year)
 
 ---
 
